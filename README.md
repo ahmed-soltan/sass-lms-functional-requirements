@@ -1,5 +1,3 @@
-# saas-lms-functional-requirements
-
 # 🇪🇬 Next-Gen Egyptian E-Learning Platform
 
 A fully localized, multi-tenant, feature-rich e-learning system tailored for Egypt and the MENA region.
